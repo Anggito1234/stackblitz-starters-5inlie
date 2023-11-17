@@ -1,0 +1,15 @@
+{
+    "require": {
+        "masterminds/html5": "^2.8",
+        "symfony/panther": "^1.1",
+        "fabpot/goutte": "^4.0",
+        "symfony/browser-kit": "^4.4",
+        "symfony/http-client": "^4.4",
+        "symfony/css-selector": "^4.4",
+        "dbrekelmans/bdi": "^1.0",
+        "2captcha/2captcha": "^1.1",
+        "guzzlehttp/guzzle": "^6.5",
+        "electrolinux/phpquery": "^0.9.7",
+        "voku/simple_html_dom": "^4.8"
+    }
+}
